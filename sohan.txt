@@ -1,0 +1,4 @@
+sohan.txt
+*.jpg
+!sohan.jpg
+/hitman
